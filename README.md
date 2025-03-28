@@ -24,6 +24,9 @@ A modern **Pizza Ordering Web App** where users can:
 - **Geolocation API:** Used to detect user location  
 
 ---
+## Live Demo  
+[View the Live Project](https://fast-react-pizza-gray.vercel.app/)  
+
 
 ## 📷 Screenshots  
 ### 🏠 Homepage  
